@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on OutSystems, Python, SQL.<br>I am working at Avalara.<br>I am curious about AI.<br>I have built two NLP web apps using LangChain and a personal LinkedIn assistant.
+I am currently working on React, Python, PostgreSQL (have experience with OutSystems, Angular, C# .NET Core, SQL Server).<br>I am working at Avalara.<br>I am curious about AI.<br>I have built two NLP web apps using LangChain and a personal LinkedIn assistant.
 
 
 ## 🌐 Socials:
